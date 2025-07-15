@@ -2,22 +2,22 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Runs daily
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: jhoncarlnayao
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Check dist directory
+        run: |
+          ls -l dist
+          cat dist/github-contribution-grid-snake.svg || echo "SVG not found"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
