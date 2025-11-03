@@ -63,9 +63,8 @@ Today, my main focus is on Fullstack Web Development, with a particular love for
  </h3>
 
 ⬛ I enjoy being around more experienced developers who inspire me to grow.  
-⬜ Currently working on web development projects using **Laravel** and **React**.  
+⬜ Currently working on web development projects using **Laravel** and 
 ⬛ Always willing to help others who want to learn more about **Front-End** and **UI/UX**.  
-⬜ Interested in building real-world projects that challenge my creativity and logic.  
 ⬛ Minimalism enthusiast.  
 ⬜ Passionate about designing modern, user-friendly interfaces that connect functionality with visual design.
 
