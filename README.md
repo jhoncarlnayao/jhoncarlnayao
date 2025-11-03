@@ -2,7 +2,7 @@
 
 <!-- Banner  -->
 <a href="https://github.com/jhoncarlnayao">
-  <img src="./assets/banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
+  <img src="./assets/banner.gif" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
 
 
