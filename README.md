@@ -96,11 +96,7 @@ Today, my main focus is on Fullstack Web Development, with a particular love for
 <br>
 
 
-<!-- Status -->
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jhoncarlnayao&theme=graywhite&hide_border=true&locale=eng&mode=weekly)](https://git.io/streak-stats)
-</div>
 
 
 <!-- Academic Training-->
@@ -117,7 +113,7 @@ Today, my main focus is on Fullstack Web Development, with a particular love for
 
 <!-- My Tech Stack -->
 
-<h3 align="center">
+<!--- <h3 align="center">
  <img src="./assets/icons/stack-white.svg" width=17>
  My Tech Stack
  <img src="./assets/icons/stack-black.svg" width=20>
@@ -134,7 +130,7 @@ Today, my main focus is on Fullstack Web Development, with a particular love for
 </div>
 
 <br/>
-
+-->
 
 
 
