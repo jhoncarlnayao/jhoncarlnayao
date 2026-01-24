@@ -87,19 +87,19 @@ Today, my main focus is on Fullstack Web Development, with a particular love for
 </br>
 
 
-<!-- github status-->
+<!-- github status
 <h3 align="center">
 <img src="./assets/icons/github-white.svg" width=18>
  Github Status 
 <img src="./assets/icons/github-black.svg" width=22>
 </h3>
 <br>
+-->
 
 
 
 
-
-<!-- Academic Training-->
+<!-- Academic Training
 <h3 align="center">
 <img src="./assets/icons/graduation-white.svg" width=25>
  Academic Training
@@ -110,7 +110,7 @@ Today, my main focus is on Fullstack Web Development, with a particular love for
 <!-- Academic Badge-->
 <div align="center">
 
-
+-->
 <!-- My Tech Stack -->
 
 <!--- <h3 align="center">
