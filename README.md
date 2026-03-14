@@ -2,7 +2,7 @@
 
 <!-- Banner  -->
 <a href="https://github.com/jhoncarlnayao">
-  <img src="./assets/banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
+  <img src="https://i.pinimg.com/736x/40/16/9e/40169e85edf768ce4c7f200ffaf58aa1.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
 
 
@@ -110,7 +110,7 @@ Today, my main focus is on Fullstack Web Development, with a particular love for
 <!-- Academic Badge-->
 <div align="center">
 
--->
+
 <!-- My Tech Stack -->
 
 <!--- <h3 align="center">
