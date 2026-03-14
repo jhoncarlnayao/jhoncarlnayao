@@ -1,145 +1,111 @@
-
-
-<!-- Banner  -->
+<!-- Banner -->
 <a href="https://github.com/jhoncarlnayao">
-  <img src="https://i.pinimg.com/1200x/1e/c6/88/1ec6880d660524a84a287e7e7f10d906.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
+  <img src="https://i.pinimg.com/1200x/1e/c6/88/1ec6880d660524a84a287e7e7f10d906.jpg" alt="banner" style="width:100%; height:auto"/>
 </a>
 
+<br/>
 
-<!--  views/stars/followers -->
-</br>
+<!-- Views / Stars / Followers -->
 <div align="center">
-<a href="https://github.com/jhoncarlnayao">
-  <img width="180px" 
-       src="https://komarev.com/ghpvc/?username=Glauedson&label=Profile%20views&color=000000&style=for-the-badge" 
-       alt="Visualizações no perfil"
-       title="Total de visualizações"/> 
-</a>
-<a href="https://api.github-star-counter.workers.dev/user/jhoncarlnayao">
-  <img width="115px" 
-       alt="seguidores" 
-       title="Total de estrelas" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /> 
-</a>
-<a href="https://github.com/jhoncarlnayao?tab=followers">
-  <img width="150px" 
-       alt="seguidores" 
-       title="seguidores no GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/jhoncarlnayao?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
-</a>
+  <a href="https://github.com/jhoncarlnayao">
+    <img width="180px" src="https://komarev.com/ghpvc/?username=jhoncarlnayao&label=Profile%20views&color=000000&style=for-the-badge" alt="Profile views"/>
+  </a>
+  <a href="https://api.github-star-counter.workers.dev/user/jhoncarlnayao">
+    <img width="115px" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=000000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jhoncarlnayao" alt="Stars"/>
+  </a>
+  <a href="https://github.com/jhoncarlnayao?tab=followers">
+    <img width="150px" src="https://custom-icon-badges.herokuapp.com/github/followers/jhoncarlnayao?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" alt="Followers"/>
+  </a>
 </div>
 
-</br>
+<br/>
 
-<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
+---
+
+<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width="300" align="left"/>
+
 <div align="center">
 
-**Who Am I?**
+### ◾ who am i?
+
 </div>
 
 <div align="justify">
-I’m a student of Information Technology at the University of Mindanao.
-My journey in technology began early, driven by curiosity and creativity. I started exploring programming and digital design at a young age, which eventually sparked my passion for building visually engaging and functional web experiences.
 
-As I grew, I developed a strong interest in UI/UX design, blending aesthetics with usability to craft seamless digital interfaces. At the same time, I deepened my knowledge in Front-End and Back-End Development, allowing me to understand and contribute to every layer of a web application.
+IT student at the University of Mindanao.
 
-Today, my main focus is on Fullstack Web Development, with a particular love for the Front-End, where I can combine creativity, logic, and design to bring ideas to life.
+Design pulled me in early — there's something satisfying about making things look good *and* actually work. I lean heavily toward the Front-End, where I can mess around with visuals, interactions, and the little details most people don't notice but definitely *feel*.
+
+UI/UX is where I spend most of my headspace. Clean layouts, intentional spacing, interfaces that just feel right. That's the stuff I care about.
 
 </div>
-</br>
 
+<br/><br/><br/><br/>
 
+---
 
+<img align="right" alt="gif" width="280" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"/>
 
+### ◾ a little more about me
 
-<!-- Gif  -->
-<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+<br/>
 
-<!-- A Little More About Me -->
- <h3 align="center">
-  <img src="./assets/icons/user-white.svg" width=15>
-  A Little More About Me 
-  <img src="./assets/icons/user-black.svg" width=15>
- </h3>
+⬛ &nbsp;I gravitate toward devs who actually know their stuff — being around people better than me is how I level up  
+⬜ &nbsp;Currently building with **Laravel**, figuring out what I can make with it  
+⬛ &nbsp;Happy to help anyone trying to get into **Front-End** or **UI/UX** — it's not as scary as it looks  
+⬛ &nbsp;Minimalist by default  
+⬜ &nbsp;I like interfaces that don't try too hard — clean, simple, purposeful  
 
-⬛ I enjoy being around more experienced developers who inspire me to grow.  
-⬜ Currently working on web development projects using **Laravel** and 
-⬛ Always willing to help others who want to learn more about **Front-End** and **UI/UX**.  
-⬛ Minimalism enthusiast.  
-⬜ Passionate about designing modern, user-friendly interfaces that connect functionality with visual design.
+<br/>
 
-  <!-- spotify and more --> 
-  <div align="center"> 
+---
 
+### ◾ tech i work with
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,notion,md" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino" />
+</div>
+
+<br/>
+
+---
+
+### ◾ find me
+
+<br/>
+
+<div align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=jhoncarlnayaoxx@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/jhoncarl-nayao-3322b5286/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> 
-  <a href="https://open.spotify.com/user/317frxf4fivq5l643ati5fsi2uva" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
+    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn"/>
   </a>
-
-  </div>
-
-</div>
-</br>
-
-
-<!-- github status
-<h3 align="center">
-<img src="./assets/icons/github-white.svg" width=18>
- Github Status 
-<img src="./assets/icons/github-black.svg" width=22>
-</h3>
-<br>
--->
-
-
-
-
-<!-- Academic Training
-<h3 align="center">
-<img src="./assets/icons/graduation-white.svg" width=25>
- Academic Training
-<img src="./assets/icons/graduation-black.svg" width=25>
-</h3>
-<br>
-
-<!-- Academic Badge-->
-<div align="center">
-
-
-<!-- My Tech Stack -->
-
-<!--- <h3 align="center">
- <img src="./assets/icons/stack-white.svg" width=17>
- My Tech Stack
- <img src="./assets/icons/stack-black.svg" width=20>
-</h3>
-
-<br/>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
-    <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,notion,md" /><br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino" /><br>
+  &nbsp;
+  <a href="https://open.spotify.com/user/317frxf4fivq5l643ati5fsi2uva" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" title="Spotify"/>
+  </a>
 </div>
 
 <br/>
--->
 
+---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhoncarlnayao&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncarlnayao&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa" height="150"/>
+</div>
 
-<!-- My Best Repositories -->
-
+<br/>
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer"
-    width="100%" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="100%"/>
 </p>
