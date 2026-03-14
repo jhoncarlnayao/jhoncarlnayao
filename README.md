@@ -38,13 +38,10 @@
 </div>
 
 <div align="justify">
-I’m a student of Information Technology at the University of Mindanao.
-My journey in technology began early, driven by curiosity and creativity. I started exploring programming and digital design at a young age, which eventually sparked my passion for building visually engaging and functional web experiences.
-
-As I grew, I developed a strong interest in UI/UX design, blending aesthetics with usability to craft seamless digital interfaces. At the same time, I deepened my knowledge in Front-End and Back-End Development, allowing me to understand and contribute to every layer of a web application.
-
-Today, my main focus is on Fullstack Web Development, with a particular love for the Front-End, where I can combine creativity, logic, and design to bring ideas to life.
-
+IT student at the University of Mindanao. I got into tech because I was genuinely curious — not because someone told me to.
+Design pulled me in early. There's something satisfying about making things look good and actually work. I lean heavily toward the Front-End side of things, 
+where I can mess around with visuals, interactions, and the little details most people don't notice — but feel.
+UI/UX is where I spend most of my headspace. Clean layouts, intentional spacing, interfaces that just feel right. That's the stuff I care about.
 </div>
 </br>
 
