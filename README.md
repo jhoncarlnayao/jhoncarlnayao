@@ -2,7 +2,7 @@
 
 <!-- Banner  -->
 <a href="https://github.com/jhoncarlnayao">
-  <img src="https://i.pinimg.com/736x/40/16/9e/40169e85edf768ce4c7f200ffaf58aa1.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
+  <img src="https://i.pinimg.com/736x/ff/6a/fc/ff6afc47e9e5489d99b3acf3e07c22c8.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
 
 
