@@ -31,27 +31,6 @@
 
 </br>
 
-<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
-<!-- <div align="center">
-
-
-
-
-<!-- Gif  -->
-<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
-
-
-
-
-
-<!-- Academic Training
-<h3 align="center">
-<img src="./assets/icons/graduation-white.svg" width=25>
- Academic Training
-<img src="./assets/icons/graduation-black.svg" width=25>
-</h3>
-<br>
-
 <!-- Academic Badge-->
 <div align="center">
 
