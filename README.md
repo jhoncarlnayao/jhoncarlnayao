@@ -42,8 +42,4 @@
 </p> 
 
 
-<div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" width="200" viewBox="0 0 200 20">
-  <text x="100" y="14" text-anchor="middle" font-family="monospace" font-size="10" fill="#333333" letter-spacing="2">suffering from capstone :/</text>
-</svg>
-</div>
+
