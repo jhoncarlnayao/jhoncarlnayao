@@ -32,19 +32,7 @@
 </br>
 
 <img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
-<div align="center">
-
-**Who Am I?**
-</div>
-
-<div align="justify">
-IT student at the University of Mindanao. I got into tech because I was genuinely curious — not because someone told me to.
-Design pulled me in early. There's something satisfying about making things look good and actually work. I lean heavily toward the Front-End side of things, 
-where I can mess around with visuals, interactions, and the little details most people don't notice — but feel.
-UI/UX is where I spend most of my headspace. Clean layouts, intentional spacing, interfaces that just feel right. That's the stuff I care about.
-</div>
-</br>
-
+<!-- <div align="center">
 
 
 
@@ -52,46 +40,6 @@ UI/UX is where I spend most of my headspace. Clean layouts, intentional spacing,
 <!-- Gif  -->
 <img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
 
-<!-- A Little More About Me -->
- <h3 align="center">
-  <img src="./assets/icons/user-white.svg" width=15>
-  A Little More About Me 
-  <img src="./assets/icons/user-black.svg" width=15>
- </h3>
-
-⬛ I enjoy being around more experienced developers who inspire me to grow.  
-⬜ Currently working on web development projects using **Laravel** and 
-⬛ Always willing to help others who want to learn more about **Front-End** and **UI/UX**.  
-⬛ Minimalism enthusiast.  
-⬜ Passionate about designing modern, user-friendly interfaces that connect functionality with visual design.
-
-  <!-- spotify and more --> 
-  <div align="center"> 
-
-  <a href="https://mail.google.com/mail/?view=cm&to=jhoncarlnayaoxx@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/jhoncarl-nayao-3322b5286/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> 
-  <a href="https://open.spotify.com/user/317frxf4fivq5l643ati5fsi2uva" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
-  </a>
-
-  </div>
-
-</div>
-</br>
-
-
-<!-- github status
-<h3 align="center">
-<img src="./assets/icons/github-white.svg" width=18>
- Github Status 
-<img src="./assets/icons/github-black.svg" width=22>
-</h3>
-<br>
--->
 
 
 
